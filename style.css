@@ -1,0 +1,32 @@
+body {
+    color:black;
+    background:rgb(102, 57, 27) ;
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px rgb(243, 215, 137);
+    padding: 20px;
+    font-size:32px;
+    color:rgb(252, 5, 169);
+}
+
+ section {
+     background: rgb(255, 160, 36);
+     padding-bottom: 80px;
+     padding-top: 80px;
+     display: flex;
+     justify-content: center;
+ }
+
+ .chamado-texto {
+       margin-right: 5%;
+ }
+
+ h1 {
+      font-size:40px
+ }
+
+ p {
+    font-size: 20px
+ }
